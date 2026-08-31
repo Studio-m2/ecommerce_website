@@ -46,7 +46,7 @@ export default function Checkout({ cart, cartTotal, onBack, onOrderComplete }) {
           </h2>
 
           <p className="mt-3 text-slate-500">
-            Thank you for shopping with NovaPuck.
+            Thank you for shopping with SphereShop.
             Your order has been successfully placed.
           </p>
 
@@ -83,7 +83,7 @@ export default function Checkout({ cart, cartTotal, onBack, onOrderComplete }) {
           </button>
 
           <h1 className="hidden text-2xl font-black sm:block">
-            NOVA<span className="text-orange-500">PUCK</span>
+           Sphere<span className="text-orange-500">Shop</span>
           </h1>
 
           <div className="flex items-center gap-2 text-sm font-semibold text-slate-500">

@@ -26,7 +26,7 @@ export default function Navbar({
         href="#home"
         className="text-2xl font-black tracking-wider"
       >
-        Shop<span className="text-orange-500">Sphere</span>
+        Sphere<span className="text-orange-500">Shop</span>
       </a>
 
       {/* DESKTOP LINKS */}
